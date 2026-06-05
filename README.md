@@ -1,7 +1,7 @@
 # NeuralNetworkOptimization
 This is an advanced implementation of Machine Learning using Neural Networks.
 
-data: hospital admission data from 
+data: hospital admission data from https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data
 
 Features:
   - Perceptron Regression (Neural Network)
